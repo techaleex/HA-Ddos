@@ -17,13 +17,13 @@
 - $ `pkg install git`
 - $ `git clone https://www.github.com/Techaleex/HA-Ddos.git`
 - $ `cd HA-DdoS`
-- $ `chmod +x HA-DdoS.py`
-- $ `python2 HA-DdoS.py`
+- $ `chmod +x HA-Ddos.sh`
+- $ `python2 HA-Ddos.sh`
 
 <p><b>To Run</b></p>
 
-- $ `cd HA-DdoS`
-- $ `python2 HA-DdoS.py`
+- $ `cd HA-Ddos`
+- $ `python2 HA-Ddos.sh`
 
 <p><b><i> Your Tool Install & Setup Done!!..Now Go To Google & Search</i></b>`Website IP Finder`<b><i>Now  Open The 1st Wesite & Place Your Target Website Url e.g. www.test.com</b></i></p>
 
@@ -40,7 +40,7 @@
 
 ``(Tap To Redirect)``
 
-[!][GiTHUB](https://t.me/techalex3658)
+[ ! ][GiTHUB](https://t.me/techalex3658)
 
 <h3 style="color:purple"> THANKS FOR USING OUR TOOL </h3>
 
