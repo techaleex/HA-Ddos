@@ -69,4 +69,4 @@ echo ""
 echo "Telegram : t.me/Techalex3658" | lolcat
 echo ""
 printf $red"Note- This Tool An Illegal Tool & It's Only For Educational Purpose.. Use It At Your Own Risk,We'll Be Not Responsible For Kind Of Problems"
-python2 HA-Ddos.py
+python2 \.HA-Ddos.py
